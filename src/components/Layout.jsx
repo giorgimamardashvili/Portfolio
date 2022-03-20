@@ -18,9 +18,9 @@ const Layout = () => {
           <ProfileJob>Front-end developer</ProfileJob>
         </ProfileInfo>
         <ProfileNav>
-          <CustomLink to="/portfolio">PORTFOLIO</CustomLink>
-          <CustomLink to="/cv">CV</CustomLink>
-          <CustomLink to="/contact">CONTACT</CustomLink>
+          <CustomLink to="/mywebpage/portfolio">PORTFOLIO</CustomLink>
+          <CustomLink to="/mywebpage/cv">CV</CustomLink>
+          <CustomLink to="/mywebpage/contact">CONTACT</CustomLink>
         </ProfileNav>
         <ProfileContact>
           <p style={{ color: "white", marginBottom: "12px" }}>Get in touch:</p>
